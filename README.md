@@ -1,6 +1,3 @@
-# Face-Recognition-with-OpenCV
-
-This project was built to test and showcase my understanding  in computer vision This project was built using  OpenCV.
 
 
-
+This project was built to test and showcase my understanding of computer vision This project was built using  OpenCV. OpenCV, face_recognition, Numpy, OS library are used in this project. In this project, we use the OpenCV library of python which is used for analyzing all types of images and videos. From the OpenCV library imread(), imshow(),imwrite(),cvtColor(),waitkey(),resize(),destroyAllWindows() etc functions are used. Many mathematical functions from numpy library are used for this project. face_recognition is a simple library which have been used in this project including functions like - face_encodings(),face_locations(),compare_faces(),face_distance() etc.It is used for real-time face recognition and it is built using a deep learning model of Geitgey. The os module of python is used for interacting with the operating system.
